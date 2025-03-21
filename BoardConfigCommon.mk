@@ -84,7 +84,7 @@ TARGET_USES_FOD_ZPOS := true
 endif
 
 # Filesystem
-TARGET_FS_CONFIG_GEN := $(COMMON_PATH)/config.fs
+TARGET_FS_CONFIG_GEN := $(COMMON_PATH)/configs/fs/config.fs
 
 # Kernel
 ifeq ($(PRODUCT_VIRTUAL_AB_OTA),true)
