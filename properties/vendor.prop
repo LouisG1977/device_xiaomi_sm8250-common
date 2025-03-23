@@ -300,6 +300,9 @@ ro.config.vc_call_vol_steps=11
 # WiFi
 wifi.aware.interface=wifi-aware0
 
+# WIFI
+wifi.supplicant_scan_interval=120
+
 # Zygote
 zygote.critical_window.minute=10
 
